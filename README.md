@@ -64,7 +64,7 @@ The model can mark emotional emphasis in its own text, and the interface shows i
 
 ## Follow the project
 
-Progress and news go to Twitter/X: **[@TWITTER_HANDLE](https://twitter.com/TWITTER_HANDLE)**.
+Progress and news go to Twitter/X: **[@TWITTER_HANDLE](https://twitter.com/sylacrypt_org)**.
 To hear about testing here, **Watch** this repository (Custom → Releases) or star it.
 
 ## License
