@@ -1,9 +1,9 @@
 # Sylacrypt
 > **Stories that never forget.**
->
-> Sylacrypt is an AI-powered roleplaying platform designed to solve the primary problem with today’s LLM services: **amnesia**.
->
-> Sylacrypt utilizes an **Event-Sourced Memory** architecture and a **Context Compiler**.
+
+ Sylacrypt is an AI-powered roleplaying platform designed to solve the primary problem with today’s LLM services: **amnesia**.
+
+Sylacrypt utilizes an **Event-Sourced Memory** architecture and a **Context Compiler**.
 *   **Eternal Memory:** The complete history is stored in a database, ensuring nothing is ever lost.
 *   **Living Lorebook:** Entries are automatically populated based on events.
 *   **Timeline:** A world chronology that prevents the AI ​​from getting confused about dates.
