@@ -16,4 +16,3 @@ The project is under active development.
 - [x] Web interface (Lorebook, Timeline, Stats)
 - [ ] Context Compiler (Context packager)
 - [ ] Early access (Beta)
-      
