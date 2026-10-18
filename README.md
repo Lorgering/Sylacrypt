@@ -13,6 +13,6 @@ Sylacrypt utilizes an **Event-Sourced Memory** architecture and a **Context Comp
 The project is under active development.
 - [x] Memory architecture design (Events, Facts, Timeline)
 - [x] Core engine and integration with providers (OpenAI, OpenRouter)
+- [x] Web interface (Lorebook, Timeline, Stats)
 - [ ] Context Compiler (Context packager)
-- [ ] Web interface (Lorebook, Timeline, Stats)
 - [ ] Early access (Beta)
