@@ -6,7 +6,7 @@ Sylacrypt is an app for long-form AI roleplay and interactive fiction. It is bui
 
 Sylacrypt gives a story a memory of its own, stored under your control and open to your review, instead of relying on whatever still fits in the model's context window.
 
-> **Status: active development, closed testing.** There is no public build yet. This page is the project's public face: goals, progress and news. Sylacrypt is proprietary software; its source code and internal design are not public.
+> **Status: active development, preparing for closed testing.** There is no public build yet. This page is the project's public face: goals, progress and news. Sylacrypt is proprietary software; its source code and internal design are not public.
 
 ## The problem
 
@@ -30,17 +30,14 @@ Events are placed on your world's own calendar, so "a week later" and "three yea
 Who knows whom, who trusts whom, what changed and when, including secrets that only some characters know.
 
 **Context built to fit.**
-Every request is assembled to fit the model's context window. The most relevant memories go in first; less important ones are shortened rather than dropped. For each message you can see what went into the request and how much of the window it used.
-
-**Small touches for the narrator.**
-The model can mark emotional emphasis in its own text, and the interface shows it.
+Every request is assembled to fit your model's context window, and for each message you can see what the model was given and how much of the window it used.
 
 ## Designed for real-world limits
 
 - **Bring your own key.** You use your own provider account, so you pay your provider directly and nothing is added on top.
 - **One provider and one model are enough.** There is no separate "memory model" to configure or pay for.
 - **Works on limited plans.** Built for providers that allow one request at a time and a modest context window (for example 32k), not only for fast parallel APIs.
-- **The chat comes first.** Memory work runs in the background, in batches, and does not hold up your next reply. It adds only a small share of extra requests; a mode that folds it into the reply itself adds none.
+- **The chat comes first.** Memory work happens in the background and doesn't hold up your next reply. It adds little or no extra cost.
 - **Any OpenAI-compatible endpoint**, cloud or local.
 - **Your data stays yours.** Your stories and memory are not used for anything else. API keys are stored encrypted.
 - **English and Russian first**, with a language layer for others.
@@ -54,17 +51,17 @@ The model can mark emotional emphasis in its own text, and the interface shows i
 
 - [x] Memory design: facts, events, timeline, relationships
 - [x] Core engine and provider integration
-- [x] Interface: chat, lorebook, timeline, stats
 - [x] Automatic lorebook and timeline from the story
+- [x] Interface: chat, lorebook, timeline, stats
 - [ ] Long-campaign memory tuning *(in progress)*
-- [ ] Automated stress testing on long stories *(in progress)*
-- [ ] Memory review and inspection tools
+- [ ] Long-campaign quality testing *(in progress)*
+- [ ] Memory review and inspection tools *(in progress)*
 - [ ] Closed beta
 - [ ] Public early access
 
 ## Follow the project
 
-Progress and news go to Twitter/X: **[@TWITTER_HANDLE](https://twitter.com/sylacrypt_org)**.
+Progress and news go to Twitter/X: **[@Sylacrypt](https://twitter.com/sylacrypt_org)**.
 To hear about testing here, **Watch** this repository (Custom → Releases) or star it.
 
 ## License
