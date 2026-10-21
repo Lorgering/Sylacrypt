@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="170" viewBox="0 0 1280 170" role="img" aria-label="Roadmap: four steps done, three in progress, closed beta and early access next.">
+<rect width="1280" height="170" rx="14" fill="#120606"/>
+<rect x=".5" y=".5" width="1279" height="169" rx="14" fill="none" stroke="#e2603a" stroke-opacity=".25"/>
+<line x1="90" x2="1190.0" y1="62" y2="62" stroke="#3a1a1a" stroke-width="3" stroke-linecap="round"/>
+<line x1="90" x2="502.5" y1="62" y2="62" stroke="#f0c46c" stroke-width="3" stroke-linecap="round"/>
+<line x1="502.5" x2="915.0" y1="62" y2="62" stroke="#e2603a" stroke-width="3" stroke-dasharray="6 7" stroke-linecap="round"><animate attributeName="stroke-dashoffset" from="26" to="0" dur="1.6s" repeatCount="indefinite"/></line>
+<circle cx="90.0" cy="62" r="11" fill="#f0c46c"/><path d="M85.5 62 l3.2 3.4 l6-6.6" fill="none" stroke="#1c0a0a" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="90.0" y="102" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#f1e5dd">Memory design</text>
+<circle cx="227.5" cy="62" r="11" fill="#f0c46c"/><path d="M223.0 62 l3.2 3.4 l6-6.6" fill="none" stroke="#1c0a0a" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="227.5" y="102" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#f1e5dd">Core engine</text>
+<circle cx="365.0" cy="62" r="11" fill="#f0c46c"/><path d="M360.5 62 l3.2 3.4 l6-6.6" fill="none" stroke="#1c0a0a" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="365.0" y="102" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#f1e5dd">Auto lorebook</text>
+<text x="365.0" y="121" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#f1e5dd">and timeline</text>
+<circle cx="502.5" cy="62" r="11" fill="#f0c46c"/><path d="M498.0 62 l3.2 3.4 l6-6.6" fill="none" stroke="#1c0a0a" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="502.5" y="102" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#f1e5dd">Interface</text>
+<circle cx="640.0" cy="62" r="11" fill="#1c0a0a" stroke="#e2603a" stroke-width="2.4"/><circle cx="640.0" cy="62" r="4.5" fill="#e2603a"><animate attributeName="opacity" values="1;.35;1" dur="2s" begin="1.0s" repeatCount="indefinite"/></circle>
+<text x="640.0" y="102" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#f1e5dd">Memory tuning</text>
+<circle cx="777.5" cy="62" r="11" fill="#1c0a0a" stroke="#e2603a" stroke-width="2.4"/><circle cx="777.5" cy="62" r="4.5" fill="#e2603a"><animate attributeName="opacity" values="1;.35;1" dur="2s" begin="1.25s" repeatCount="indefinite"/></circle>
+<text x="777.5" y="102" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#f1e5dd">Quality testing</text>
+<circle cx="915.0" cy="62" r="11" fill="#1c0a0a" stroke="#e2603a" stroke-width="2.4"/><circle cx="915.0" cy="62" r="4.5" fill="#e2603a"><animate attributeName="opacity" values="1;.35;1" dur="2s" begin="1.5s" repeatCount="indefinite"/></circle>
+<text x="915.0" y="102" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#f1e5dd">Review tools</text>
+<circle cx="1052.5" cy="62" r="11" fill="#1c0a0a" stroke="#5a3a35" stroke-width="2.4"/>
+<text x="1052.5" y="102" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#8d746b">Closed beta</text>
+<circle cx="1190.0" cy="62" r="11" fill="#1c0a0a" stroke="#5a3a35" stroke-width="2.4"/>
+<text x="1190.0" y="102" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#8d746b">Early access</text>
+<text x="296.25" y="22" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" letter-spacing="3" fill="#f0c46c">DONE</text>
+<text x="777.5" y="22" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" letter-spacing="3" fill="#e2603a">IN PROGRESS</text>
+<text x="1121.25" y="22" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" letter-spacing="3" fill="#8d746b">NEXT</text>
+</svg>
