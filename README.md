@@ -4,7 +4,6 @@
 
 <p align="center">
   <img alt="Status" src="https://img.shields.io/badge/status-closed%20testing%20soon-e2603a?style=flat-square&labelColor=1c0a0a">
-  <img alt="Platform" src="https://img.shields.io/badge/platform-desktop-f0c46c?style=flat-square&labelColor=1c0a0a">
   <img alt="Languages" src="https://img.shields.io/badge/languages-EN%20%C2%B7%20RU-a98bff?style=flat-square&labelColor=1c0a0a">
   <img alt="Bring your own key" src="https://img.shields.io/badge/bring%20your%20own-API%20key-3fd0b8?style=flat-square&labelColor=1c0a0a">
   <a href="https://twitter.com/sylacrypt_org"><img alt="Follow on X" src="https://img.shields.io/badge/follow-%40Sylacrypt-ffffff?style=flat-square&labelColor=1c0a0a&logo=x&logoColor=white"></a>
