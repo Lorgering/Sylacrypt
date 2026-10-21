@@ -1,12 +1,20 @@
-# Sylacrypt
+<p align="center">
+  <img src="assets/banner.svg" alt="Sylacrypt. Stories that don't lose the thread." width="100%">
+</p>
 
-> **Stories that don't lose the thread.**
+<p align="center">
+  <img alt="Status" src="https://img.shields.io/badge/status-closed%20testing%20soon-e2603a?style=flat-square&labelColor=1c0a0a">
+  <img alt="Platform" src="https://img.shields.io/badge/platform-desktop-f0c46c?style=flat-square&labelColor=1c0a0a">
+  <img alt="Languages" src="https://img.shields.io/badge/languages-EN%20%C2%B7%20RU-a98bff?style=flat-square&labelColor=1c0a0a">
+  <img alt="Bring your own key" src="https://img.shields.io/badge/bring%20your%20own-API%20key-3fd0b8?style=flat-square&labelColor=1c0a0a">
+  <a href="https://twitter.com/sylacrypt_org"><img alt="Follow on X" src="https://img.shields.io/badge/follow-%40Sylacrypt-ffffff?style=flat-square&labelColor=1c0a0a&logo=x&logoColor=white"></a>
+</p>
 
-Sylacrypt is an app for long-form AI roleplay and interactive fiction. It is built around one problem: **the longer you play, the more the story falls apart.** Characters forget what happened, dates drift, a promise made in chapter two is gone by chapter ten, and the model confidently invents details that contradict what you already wrote.
-
-Sylacrypt gives a story a memory of its own, stored under your control and open to your review, instead of relying on whatever still fits in the model's context window.
+<p align="center"><b>Long-form AI roleplay with a memory of its own.</b></p>
 
 > **Status: active development, preparing for closed testing.** There is no public build yet. This page is the project's public face: goals, progress and news. Sylacrypt is proprietary software; its source code and internal design are not public.
+
+<img src="assets/divider.svg" alt="" width="100%">
 
 ## The problem
 
@@ -17,6 +25,8 @@ Language models only see a limited window of text. Once a story outgrows it, the
 - **Automatic "memory" features** are usually a black box: you can't see what was stored, why, or fix it when it's wrong.
 
 Sylacrypt aims at the middle path: automatic, but visible and correctable, and cheap enough to run on a modest plan.
+
+<img src="assets/divider.svg" alt="" width="100%">
 
 ## What it does
 
@@ -32,6 +42,8 @@ Who knows whom, who trusts whom, what changed and when, including secrets that o
 **Context built to fit.**
 Every request is assembled to fit your model's context window, and for each message you can see what the model was given and how much of the window it used.
 
+<img src="assets/divider.svg" alt="" width="100%">
+
 ## Designed for real-world limits
 
 - **Bring your own key.** You use your own provider account, so you pay your provider directly and nothing is added on top.
@@ -42,12 +54,21 @@ Every request is assembled to fit your model's context window, and for each mess
 - **Your data stays yours.** Your stories and memory are not used for anything else. API keys are stored encrypted.
 - **English and Russian first**, with a language layer for others.
 
+<img src="assets/divider.svg" alt="" width="100%">
+
 ## What it is not
 
 - It is not a model. The quality of the prose depends on the model you connect.
 - It is not available yet, and there is no release date.
 
+<img src="assets/divider.svg" alt="" width="100%">
+
 ## Roadmap
+
+<img src="assets/roadmap.svg" alt="Roadmap: four steps done, three in progress, closed beta and early access next." width="100%">
+
+<details>
+<summary>Text version</summary>
 
 - [x] Memory design: facts, events, timeline, relationships
 - [x] Core engine and provider integration
@@ -58,6 +79,10 @@ Every request is assembled to fit your model's context window, and for each mess
 - [ ] Memory review and inspection tools *(in progress)*
 - [ ] Closed beta
 - [ ] Public early access
+
+</details>
+
+<img src="assets/divider.svg" alt="" width="100%">
 
 ## Follow the project
 
