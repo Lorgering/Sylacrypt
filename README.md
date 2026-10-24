@@ -91,4 +91,4 @@ To hear about testing here, **Watch** this repository (Custom → Releases) or s
 ## License
 
 © 2026 Lorgering. All rights reserved.
-Sylacrypt is proprietary software. The source code, design documents and internal architecture are confidential and are not licensed for use, copying, modification or distribution. This repository contains documentation only.
+Sylacrypt is proprietary software. The source code, design documents and internal architecture are confidential and are not publicly available. Viewing, personal non-commercial study, and forking for personal non-commercial purposes are permitted only as described in the LICENSE. This repository contains documentation only.
