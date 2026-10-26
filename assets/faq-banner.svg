@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 300" width="1280" height="300" role="img" aria-label="Sylacrypt FAQ. Questions, answered.">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1c0a0a"/><stop offset="1" stop-color="#2b1018"/></linearGradient>
+<radialGradient id="g1" cx="82%" cy="40%" r="55%"><stop offset="0" stop-color="#e2603a" stop-opacity=".38"/><stop offset="1" stop-color="#e2603a" stop-opacity="0"/></radialGradient>
+<radialGradient id="g2" cx="12%" cy="90%" r="45%"><stop offset="0" stop-color="#a98bff" stop-opacity=".26"/><stop offset="1" stop-color="#a98bff" stop-opacity="0"/></radialGradient>
+<linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#e2603a" stop-opacity="0"/><stop offset=".5" stop-color="#e2603a"/><stop offset="1" stop-color="#e2603a" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="1280" height="300" fill="url(#bg)"/><rect width="1280" height="300" fill="url(#g1)"/><rect width="1280" height="300" fill="url(#g2)"/>
+<g fill="none" stroke="#e2603a" stroke-opacity=".28"><circle cx="1050" cy="150" r="118"/><circle cx="1050" cy="150" r="86" stroke="#a98bff" stroke-opacity=".3"/><circle cx="1050" cy="150" r="54" stroke-opacity=".4"/></g>
+<text x="1050" y="196" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="150" font-weight="700" fill="#f3dfd8" fill-opacity=".92">?</text>
+<g fill="#ffd9a0"><circle cx="930" cy="70" r="2.4"/><circle cx="1170" cy="86" r="2"/><circle cx="1130" cy="236" r="2.6"/><circle cx="960" cy="244" r="1.8"/><circle cx="1190" cy="170" r="1.6"/></g>
+<text x="80" y="120" font-family="Georgia,'Times New Roman',serif" font-size="30" letter-spacing="14" fill="#e2603a">SYLACRYPT</text>
+<text x="80" y="196" font-family="Georgia,'Times New Roman',serif" font-size="68" font-style="italic" font-weight="700" fill="#f6ece8">Questions, answered.</text>
+<rect x="80" y="226" width="420" height="2" fill="url(#ln)"/>
+<text x="80" y="262" font-family="Arial,Helvetica,sans-serif" font-size="20" letter-spacing="3" fill="#b79a98">FAQ  ·  LONG-FORM AI ROLEPLAY WITH A MEMORY OF ITS OWN</text>
+</svg>
